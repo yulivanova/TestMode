@@ -1,1 +1,1 @@
-Project Sample
+Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/utt5vqf0b7vosgjj?svg=true)](https://ci.appveyor.com/project/yulivanova/testmode)
